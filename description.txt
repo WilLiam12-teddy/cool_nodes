@@ -1,0 +1,7 @@
+--cool_nodes by: WilLiam12
+
+Mod that adds new things to minetest_game.
+
+I hope you like it and have fun with the mod!
+
+Cool_Nodes mod 2020
